@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FBLoginUI</string>
+    <string name="options">English • <b>Change</b></string>
+</resources>
